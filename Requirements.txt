@@ -1,0 +1,5 @@
+SRD-OXI-3335: Spo2 cable should contain two ends, which connects the device at one end and sensor at other end
+SRD-NIBP-3336: NIBP hose should have a minimum of 100cm length
+PRD-3337: CO2 filter-line should has maximum thickness of 1cm
+SRD-IBP-3338: There should be 5 types of IBP channels in device.
+PRD-3339: Temperature can read from maximum of 3 channels from patient body.
